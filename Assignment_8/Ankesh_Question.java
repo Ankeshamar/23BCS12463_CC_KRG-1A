@@ -22,7 +22,7 @@ public class Solution {
         int[] arr = {1, 15, 7, 9, 2, 5, 10};
         int k = 3;
 
-        int result = maxSumAfterPartitioning(arr, k);
-        System.out.println(result);
+        int res = maxSumAfterPartitioning(arr, k);
+        System.out.println(res);
     }
 }
